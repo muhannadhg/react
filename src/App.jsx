@@ -9,7 +9,7 @@ function Products() {
     const data = await res.json();
     setProducts(data);
   };
-
+//test
   useEffect(() => {
     fetchProducts();
   }, [products]);
