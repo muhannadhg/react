@@ -1,29 +1,46 @@
 {
+  "users": [
+    {
+      "id": "6bb8",
+      "username": "Test",
+      "password": "Test"
+    },
+    {
+      "id": "fe7f",
+      "username": "A",
+      "password": "A"
+    },
+    {
+      "id": "d5fe",
+      "username": "TT",
+      "password": "TT"
+    },
+    {
+      "id": "975d",
+      "username": "Muhannad",
+      "password": "Muhannad"
+    }
+  ],
   "products": [
     {
       "id": "1",
-      "title": "New Product ",
-      "price": 50
-    },
-    {
-      "id": "222",
-      "title": "AAAA",
-      "price": 1212222222
-    },
-    {
-      "id": "652",
-      "title": "Test",
-      "price": 123
-    },
-    {
-      "id": "9872",
       "title": "Pro",
-      "price": 632
+      "price": 100
     },
     {
-      "id": "554",
-      "title": "Reoo",
-      "price": 100
+      "id": "2",
+      "title": "Sony",
+      "price": 988
+    },
+    {
+      "id": "34",
+      "title": "Pc",
+      "price": 7260
+    },
+    {
+      "id": "88921082321",
+      "title": "CR7",
+      "price": 0.0001
     }
   ]
 }
